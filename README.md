@@ -1,1 +1,2 @@
-# Student-Management-System is a simple core java project which is developed using swing and it perform CRUD operations to MySQL database.
+# Student-Management-System 
+It is a simple java application which is developed using swing and it perform CRUD operations to MySQL database.
